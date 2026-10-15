@@ -19,3 +19,5 @@ git diff REVIEW-CHECKLIST.md
 git add REVIEW-CHECKLIST.md
 
 git diff --cached -- REVIEW-CHECKLIST.md
+
+git diff --cached -- REVIEW-CHECKLIST.md
